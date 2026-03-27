@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Peter Botros
 
-<!--
-**pbotros216/pbotros216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Indiana University Indianapolis focused on data analytics, AI, and business intelligence.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Data Analysis
+- Dashboard Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Coffee Vending Machine (Python)
+- Number Guessing Game (Python)
+- Book Library System
+
+## Interests
+- Data Analytics
+- AI in Healthcare
+- Business Intelligence
+- Cloud & Security
+
+## Certifications
+- AWS Security Fundamentals
+- Verizon Cloud Simulation (Forage)
+- Commonwealth Bank Data Science (Forage)
+- Excel Dashboard Certificate
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/peter-botros-097543266 
+- Email: pebotros@iu.edu
